@@ -1,3 +1,4 @@
+![image](https://github.com/erickfabiandev/erickfabiandev/assets/109047392/b851950e-9435-4a9f-b235-e73fe56427f4)
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -7,7 +8,7 @@
  </head>
 <body>
   <h1>¡Hola! Soy Erick Fabian, Desarrollador FullStack 👋</h1>
-
+  
   <p>¡Bienvenido(a) a mi asombroso rincón de desarrollo en GitHub! Aquí encontrarás una colección de mis proyectos, habilidades y experiencias en el emocionante mundo del desarrollo web y movil. ¡Prepárate para sumergirte en un viaje lleno de código brillante y tecnologías alucinantes!</p>
 
   <h2>Tecnologías que Manejo 🚀</h2>
