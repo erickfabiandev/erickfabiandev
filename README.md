@@ -34,7 +34,7 @@
   <p>Aquí hay una muestra de algunos de los proyectos destacados en los que he trabajado utilizando estas tecnologías:</p>
 
   <ul>
-    <li><a href="#">Proyecto 1</a></li>
+    <li><a href="https://github.com/erickfabiandev/practiceExercise">Ejercicios practicos</a></li>
     <li><a href="#">Proyecto 2</a></li>
     <li><a href="#">Proyecto 3</a></li>
   </ul>
