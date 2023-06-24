@@ -35,7 +35,7 @@
 
   <ul>
     <li><a href="https://github.com/erickfabiandev/practiceExercise">Practice Exercises</a></li>
-    <li><a href="#">Project 2</a></li>
+    <li><a href="https://github.com/erickfabiandev/portafolioProject">Project Personal Portfolio</a></li>
     <li><a href="#">Project 3</a></li>
   </ul>
 
