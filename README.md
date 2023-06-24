@@ -7,13 +7,13 @@
           
  </head>
 <body>
-  <h1>¡Hola! Soy Erick Fabian, Desarrollador FullStack 👋</h1>
+  <h1> Hello! I'm Erick Fabian, a FullStack Developer 👋</h1>
   
-  <p>¡Bienvenido(a) a mi asombroso rincón de desarrollo en GitHub! Aquí encontrarás una colección de mis proyectos, habilidades y experiencias en el emocionante mundo del desarrollo web y movil. ¡Prepárate para sumergirte en un viaje lleno de código brillante y tecnologías alucinantes!</p>
+  <p>Welcome to my amazing development corner on GitHub! Here you'll find a collection of my projects, skills, and experiences in the exciting world of web and mobile development. Get ready to dive into a journey full of brilliant code and astonishing technologies!</p>
 
-  <h2>Tecnologías que Manejo 🚀</h2>
+  <h2>Technologies I Master  🚀</h2>
 
-  <p>En mi caja de herramientas de desarrollo web, encontrarás un conjunto de tecnologías y lenguajes que domino como un verdadero maestro(a) del código:</p>
+  <p>In my web development toolbox, you'll find a set of technologies and languages that I master like a true code wizard:</p>
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="70" />
@@ -29,24 +29,24 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="40" width="70" />
   </div>
 
-  <h2>Proyectos Destacados 💻</h2>
+  <h2>Featured Projects  💻</h2>
 
-  <p>Aquí hay una muestra de algunos de los proyectos destacados en los que he trabajado utilizando estas tecnologías:</p>
+  <p>Here's a sample of some featured projects I've worked on using these technologies:</p>
 
   <ul>
-    <li><a href="https://github.com/erickfabiandev/practiceExercise">Ejercicios practicos</a></li>
-    <li><a href="#">Proyecto 2</a></li>
-    <li><a href="#">Proyecto 3</a></li>
+    <li><a href="https://github.com/erickfabiandev/practiceExercise">Practice Exercises</a></li>
+    <li><a href="#">Project 2</a></li>
+    <li><a href="#">Project 3</a></li>
   </ul>
 
-  <p>Si deseas explorar más de mis proyectos, asegúrate de visitar mi repositorio y echar un vistazo a las carpetas dedicadas a cada uno de ellos.</p>
+  <p>If you want to explore more of my projects, be sure to visit my repository and take a look at the dedicated folders for each one of them.</p>
 
-  <h2>Puedes contactarme 📫</h2>
+  <h2>You can contact me at  📫</h2>
 
   <ul>
-    <li>Sitio web: <a href="https://www.erickfabiandev.com">www.erickfabiandev.com</a></li>
+    <li>Website: <a href="https://www.erickfabiandev.com">www.erickfabiandev.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/erickfabiandev/">Erick Fabian Carrasco Talledo</a></li>
-    <li>Correo electrónico: <a href="mailto:erickfabianct@gmail.com">erickfabianct@gmail.com</a></li>
+    <li>Email: <a href="mailto:erickfabianct@gmail.com">erickfabianct@gmail.com</a></li>
   </ul>
 
 </body>
