@@ -36,7 +36,7 @@
   <ul>
     <li><a href="https://github.com/erickfabiandev/practiceExercise">Practice Exercises</a></li>
     <li><a href="https://github.com/erickfabiandev/portafolioProject">Project Personal Portfolio</a></li>
-    <li><a href="#">Project 3</a></li>
+    <li><a href="#">Project GUSTO GO</a></li>
   </ul>
 
   <p>If you want to explore more of my projects, be sure to visit my repository and take a look at the dedicated folders for each one of them.</p>
