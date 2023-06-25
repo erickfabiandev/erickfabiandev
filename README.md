@@ -44,7 +44,7 @@
   <h2>You can contact me at  📫</h2>
 
   <ul>
-    <li>Website: <a href="https://www.erickfabiandev.com">www.erickfabiandev.com</a></li>
+    <li>Website: <a href="http://www.erickfabiandev.com">www.erickfabiandev.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/erickfabiandev/">Erick Fabian Carrasco Talledo</a></li>
     <li>Email: <a href="mailto:erickfabianct@gmail.com">erickfabianct@gmail.com</a></li>
   </ul>
