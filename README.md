@@ -1,4 +1,5 @@
-![image](https://github.com/erickfabiandev/erickfabiandev/assets/109047392/b851950e-9435-4a9f-b235-e73fe56427f4)
+![image](https://github.com/erickfabiandev/erickfabiandev/assets/109047392/f8a94d3a-4dfd-46a2-ae02-b7e587f0090f)
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
