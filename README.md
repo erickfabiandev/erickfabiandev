@@ -41,9 +41,10 @@
 
   <ul>
     <li><a href="https://github.com/erickfabiandev/practiceExercise">Practice Exercises</a></li>
-    <li><a href="https://github.com/erickfabiandev/portafolioProject">Project Personal Portfolio</a></li>
-    <li><a href="#">Project GUSTO GO</a></li>
-    <li><a href="https://github.com/erickfabiandev/CrudProject-React-Express">Other projects in collaboration</a></li>
+    <li><a href="https://github.com/erickfabiandev/portafolioProject">Project coming soon</a></li>
+    <li><a href="https://github.com/erickfabiandev/website">Project website</a></li>
+    <li><a href="https://github.com/anstylist/medical-site-fed">Project Medical Site (In collaboration)</a></li>
+    <li><a href="https://github.com/erickfabiandev/CrudProject-React-Express">Project product management (In collaboration)</a></li>
   </ul>
 
   <p>If you want to explore more of my projects, be sure to visit my repository and take a look at the dedicated folders for each one of them.</p>
