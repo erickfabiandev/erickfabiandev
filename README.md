@@ -40,6 +40,7 @@
   <p>Here's a sample of some featured projects I've worked on using these technologies:</p>
 
   <ul>    
+    <li><a href="https://github.com/erickfabiandev/Personal-Project-LIFEHUB360">Project Personal - LIFEHUB360</a></li>
     <li><a href="https://github.com/anstylist/medical-site-fed">Project Medical Site - frontend (In collaboration)</a></li>
     <li><a href="https://github.com/anstylist/medical-site-bed">Project Medical Site - backend (In collaboration)</a></li>
     <li><a href="https://github.com/erickfabiandev/CrudProject-React-Express">Project product management (In collaboration)</a></li>
