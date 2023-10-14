@@ -29,7 +29,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="70" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="70" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="70" />    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="70" />    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="70" />
           
           
   </div>
@@ -38,12 +39,11 @@
 
   <p>Here's a sample of some featured projects I've worked on using these technologies:</p>
 
-  <ul>
-    <li><a href="https://github.com/erickfabiandev/practiceExercise">Practice Exercises</a></li>
-    <li><a href="https://github.com/erickfabiandev/portafolioProject">Project coming soon</a></li>
-    <li><a href="https://github.com/erickfabiandev/website">Project website</a></li>
-    <li><a href="https://github.com/anstylist/medical-site-fed">Project Medical Site (In collaboration)</a></li>
+  <ul>    
+    <li><a href="https://github.com/anstylist/medical-site-fed">Project Medical Site - frontend (In collaboration)</a></li>
+    <li><a href="https://github.com/anstylist/medical-site-bed">Project Medical Site - backend (In collaboration)</a></li>
     <li><a href="https://github.com/erickfabiandev/CrudProject-React-Express">Project product management (In collaboration)</a></li>
+    <li><a href="https://github.com/erickfabiandev/website">Project website</a></li>
   </ul>
 
   <p>If you want to explore more of my projects, be sure to visit my repository and take a look at the dedicated folders for each one of them.</p>
