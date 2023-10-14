@@ -45,7 +45,7 @@
     <li><a href="https://github.com/anstylist/medical-site-bed">Project Medical Site - backend (In collaboration)</a></li>
     <li><a href="https://github.com/erickfabiandev/CrudProject-React-Express">Project product management (In collaboration)</a></li>    
     <li><a href="https://github.com/erickfabiandev/website">Project website</a></li>
-    <li><a href="https://github.com/erickfabiandev/various-project">Various projec</a></li>
+    <li><a href="https://github.com/erickfabiandev/various-project">Various project</a></li>
   </ul>
 
   <p>If you want to explore more of my projects, be sure to visit my repository and take a look at the dedicated folders for each one of them.</p>
